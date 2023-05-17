@@ -1,37 +1,61 @@
+html {
+    background-color: #FBF8BE;
+    
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 3em ;
+    font-family: 'Anton', sans-serif;
+    padding: 1em ;
+    margin: 0 ;
+    font-weight: 700;
+    text-decoration: none ;
+    color: #FBF8BE ;
+    background-color: #234E70 ;
+    width: 70%;
+}
+header{
+    background-color: #234E70;
+    width: 70%;
+}
+.page{
+    width: 70%;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 2em ;
+    font-family: 'Alegreya Sans', sans-serif;  
+    padding: 0 ;
+    margin: 0 ;
+    font-weight: 400;
+    color: white;
+    background-color: orange ;
+    width: 100%;
 }
 
-p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+  p {
+    font-family:  'Abel', sans-serif  ;
+    font-size: 1.4em ;
+    padding: 0;
+    color: white  ;
+}
+div p {
+    padding: 0 1em 0 1em;
+}
+.story-box{
+    background-color: #234E70;
+    padding: 1em 0 1em 0;
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    
+    background-size: 10em;
+    background-repeat: no-repeat;
+    margin-top: 3em;
+    background-image: url('https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png');
+    height: 10em ;
+    width: auto ;
+    
 }
+
+
